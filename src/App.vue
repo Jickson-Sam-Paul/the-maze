@@ -4,7 +4,7 @@
   </main>
 </template>
 <script setup lang="ts">
-import GameWrapper from './components/GameWrapper.vue'
+import GameWrapper from './components/GameWrapper.vue';
 </script>
 
 <style scoped></style>
